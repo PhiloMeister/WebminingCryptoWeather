@@ -1,0 +1,9 @@
+transformers
+datasets
+scikit-learn
+pandas
+torch
+matplotlib
+seaborn
+fastapi
+pydantic
